@@ -7,3 +7,7 @@ This project aims to practice how to develop a react app from scratch.
 **Built with:** _React using create-react-app and Sass_
 
 **Completed on:** _04/29/2020_
+
+## To Do:
+
+-   Deploy project to github pages
